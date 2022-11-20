@@ -1,0 +1,72 @@
+body{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.logo1234{
+    height: 60px;
+    width: 60px;
+    margin: 0;
+}
+
+.mrg-act{
+    margin:10px;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+.cl-wt{
+    color: white;
+}
+.aña{
+    color: rgb(174, 180, 185);
+}
+.img-tr{
+    height: 40px;
+    border-radius: 50%;
+}
+.hov-90:hover{
+    filter: brightness(70%);
+}
+.img-rd{
+    height: 40px;
+    width: 40px;
+}
+.nice{
+    font-family: cursive;
+    background-color: rgb(22, 14, 20);
+    margin-top: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.icon-good{
+    width: 80px;
+    height: 80px;
+    margin: 30px;
+}
+.rox{
+    color: white;
+    margin: 10px;
+}
+.btn-a{
+    border: 0px;
+    border-radius: 10px;
+    background-color: black;
+}
+.title-txt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.btn-b{
+    background-color: black;
+}
+.jdr{
+    margin: 10px;
+}
+.anashei{
+    margin: 5px;
+}
+.fc{
+    background-color: white;
+}
